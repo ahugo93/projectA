@@ -1,0 +1,14 @@
+.navBar {
+    width: 400px;
+}
+table {
+    border: 3px solid black;
+}
+td,
+th{
+    border: 1px solid black;
+    padding: 5px;
+}
+li {
+    display: inline;
+}
